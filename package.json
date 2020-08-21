@@ -1,0 +1,23 @@
+{
+  "name": "utility-room",
+  "version": "1.0.0",
+  "description": "just utility room",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebRookieSyb/utility-room.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebRookieSyb/utility-room/issues"
+  },
+  "homepage": "https://github.com/WebRookieSyb/utility-room#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
