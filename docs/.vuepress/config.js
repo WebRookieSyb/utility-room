@@ -4,7 +4,7 @@ module.exports = {
   locales: {
     "/": {
       title: "Utility Room",
-      description: "Just utility room"
+      description: "Just utility room",
     },
   },
   themeConfig: {
@@ -12,19 +12,33 @@ module.exports = {
       "/": {
         sidebar: {
           "": [
+            // {
+            //   title: "框架和库",
+            //   children: [
+            //     "/project",
+            //   ]
+            // },
+            // {
+            //   title: "模块包",
+            //   children: ["/api"]
+            // },
+            // {
+            //   title: "API",
+            //   children: ["/api", "/project"]
+            // },
             {
-              title: "Open Source Project",
+              title: "设计模式",
               children: [
-                "/project",
-              ]
+                {
+                  title: "基本知识",
+                  children: ["mx","/sjyz",],
+                },
+                '/yxms'
+              ],
             },
-            {
-              title: "API",
-              children: ["/api"]
-            }
-          ]
-        }
+          ],
+        },
       },
-    }
-  }
+    },
+  },
 };
