@@ -18,6 +18,6 @@ git commit -m 'deploy'
 
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:WebRookieSyb/utility-room.git master:gh-pages
+git push -f git@github.com:WebRookieSyb/utility.git master:gh-pages
 
 cd -

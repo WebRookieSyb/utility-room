@@ -1,6 +1,6 @@
 module.exports = {
   title: "Utility Room",
-  base: "/utility-room/",
+  base: "/utility/",
   locales: {
     "/": {
       title: "Utility Room",
@@ -8,6 +8,7 @@ module.exports = {
     },
   },
   themeConfig: {
+    repo: "webrookiesyb/utility-room",
     locales: {
       "/": {
         sidebar: {

@@ -1,2 +1,2 @@
 # utility-room
-utility room https://WebRookieSyb.github.io/utility-room/
+utility room https://webrookiesyb.github.io/utility/
