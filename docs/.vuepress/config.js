@@ -31,7 +31,7 @@ module.exports = {
               children: [
                 {
                   title: "基本知识",
-                  children: ["mx","/sjyz",],
+                  children: ["/mx","/sjyz","/jsyz"],
                 },
                 '/yxms'
               ],
