@@ -1,6 +1,6 @@
 module.exports = {
   title: "Utility Room",
-  base: "/rooms/",
+  base: "/utility-room/",
   locales: {
     "/": {
       title: "Utility Room",
